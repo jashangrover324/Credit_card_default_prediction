@@ -26,7 +26,7 @@ The task is to predict whether a customer will default on their credit card in t
 - `0` = No Default  
 - `1` = Default
 
-The business challenge is rooted in **high class imbalance** — only **19.03%** of records represent default cases.
+The business challenge is rooted in **high class imbalance** — only about **19%** of records represent default cases.
 
 ---
 

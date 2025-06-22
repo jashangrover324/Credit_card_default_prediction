@@ -15,7 +15,7 @@ The model was trained on historical customer data and deployed to generate predi
 | `train_dataset_final1.csv`   | Training dataset containing historical labeled records |
 | `validate_dataset_final.csv`| Unlabeled validation dataset for final predictions |
 | `EDA_and_model_workflow.ipynb` | Notebook covering EDA, feature engineering, and modeling |
-| `default_predictions.csv`     | Final predictions generated for `validate_dataset.csv` |
+| `default_predictions.csv`     | Final predictions generated for `validate_dataset_final.csv` |
 
 ---
 
